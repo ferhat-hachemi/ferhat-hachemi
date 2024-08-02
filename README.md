@@ -1,9 +1,24 @@
-## Hi there 👋, I'm Ferhat HACHEMI
+# Ferhat HACHEMI
 
 👨‍💻 Full-Stack Developer at BNP Paribas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/h-ferhat-account/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/h-ferhat-account/) -->
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ferhat-hachemi)
+
+
+## 👋 About Me
+
+I'm a Full-Stack developer passionate about new technologies. I enjoy exploring and working with the latest tools and frameworks to build innovative solutions.
+
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ferhat-hachemi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhat-hachemi&layout=compact&theme=radical)
+
+---
 
 
 ## 🛠️ Tech Stack
@@ -18,40 +33,33 @@
 - Angular
 - Ionic
 
-**Back-End**
+**Back-End:**
 - Spring Boot
+- Spring Security
 
-**Databases**
+**Databases:**
 - PostgreSQL
-- Oracle / SODA
+- Oracle
 
-**DevOps**
+**DevOps & Messaging**
 - Jenkins
+- Kafka
+
+**Code Quality & Analysis**
 - SonarQube
 
-**Tools:**
+**Others**
+- Git
+- RESTful APIs
 - JIRA
-- mRemoteNG
 
-**Servers:**
+**Servers**
 - Tomcat
 - Apache Tomcat
-** Others**
 
 
 
-<!--
-**ferhat-hachemi/ferhat-hachemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Contact
 
+- **Email:** hachemi.ferhat25@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
