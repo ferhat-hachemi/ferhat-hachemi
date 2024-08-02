@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm a Full-Stack developer passionate about new technologies. I enjoy exploring and working with the latest tools and frameworks to build innovative solutions.
+I am a Full-Stack Developer with a deep passion for exploring and leveraging cutting-edge technologies. With a strong foundation in both front-end and back-end development, I thrive on the challenge of integrating diverse technologies to create innovative solutions. My expertise spans various programming languages, frameworks, and tools, enabling me to build robust and scalable applications.
 
 
 ---
