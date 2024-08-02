@@ -31,10 +31,12 @@ I am a Full-Stack Developer with a deep passion for exploring and leveraging cut
 - HTML / CSS
 - Angular
 - Ionic
+- Bootstrap
+- PrimeNG
 
 **Databases:**
 - PostgreSQL
-- Oracle
+- Oracle SQL / SODA
 
 **DevOps & Messaging**
 - Jenkins
