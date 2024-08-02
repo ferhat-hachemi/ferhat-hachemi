@@ -10,7 +10,7 @@
 
 I am a Full-Stack Developer with a deep passion for exploring and leveraging cutting-edge technologies. With a strong foundation in both front-end and back-end development, I thrive on the challenge of integrating diverse technologies to create innovative solutions. My expertise spans various programming languages, frameworks, and tools, enabling me to build robust and scalable applications.
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ferhat-hachemi&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhat-hachemi&layout=compact&theme=radical)
