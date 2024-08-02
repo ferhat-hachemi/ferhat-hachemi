@@ -38,20 +38,22 @@ I am a Full-Stack Developer with a deep passion for exploring and leveraging cut
 - PostgreSQL
 - Oracle SQL / SODA
 
-**DevOps & Messaging**
-- Jenkins
-- Kafka
+**Servers**
+- Tomcat
+- Apache Tomcat
 
-**Code Quality & Analysis**
+**DevOps & Analysis**
+- Jenkins
 - SonarQube
+
+**Messaging**
+- Kafka
 
 **Others**
 - Git
 - RESTful APIs
 - JIRA
+- mRemoteNG
 
-**Servers**
-- Tomcat
-- Apache Tomcat
 
 
