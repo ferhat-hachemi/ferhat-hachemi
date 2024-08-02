@@ -1,6 +1,6 @@
-# Ferhat HACHEMI
+# Hi, I'm Ferhat HACHEMI
 
-👨‍💻 Full-Stack Developer at BNP Paribas
+👨‍💻 Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/h-ferhat-account/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ferhat-hachemi)
