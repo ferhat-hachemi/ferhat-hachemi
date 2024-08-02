@@ -28,14 +28,14 @@ I'm a Full-Stack developer passionate about new technologies. I enjoy exploring 
 - Python
 - TypeScript
 
+**Back-End:**
+- Spring Boot
+- Spring Security
+  
 **Front-End**
 - HTML / CSS
 - Angular
 - Ionic
-
-**Back-End:**
-- Spring Boot
-- Spring Security
 
 **Databases:**
 - PostgreSQL
@@ -57,9 +57,4 @@ I'm a Full-Stack developer passionate about new technologies. I enjoy exploring 
 - Tomcat
 - Apache Tomcat
 
-
-
-## 💬 Contact
-
-- **Email:** hachemi.ferhat25@gmail.com
 
