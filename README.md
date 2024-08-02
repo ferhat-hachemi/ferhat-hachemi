@@ -6,9 +6,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ferhat-hachemi)
 
 
+
 ## 👋 About Me
 
 I am a Full-Stack Developer with a deep passion for exploring and leveraging cutting-edge technologies. With a strong foundation in both front-end and back-end development, I thrive on the challenge of integrating diverse technologies to create innovative solutions. My expertise spans various programming languages, frameworks, and tools, enabling me to build robust and scalable applications.
+
 
 ## 📊 GitHub Stats
 
