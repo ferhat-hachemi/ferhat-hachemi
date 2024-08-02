@@ -1,43 +1,47 @@
-## Hi there 👋
-
-<!--
-**ferhat-hachemi/ferhat-hachemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Ferhat HACHEMI
+## Hi there 👋, I'm Ferhat HACHEMI
 
 👨‍💻 Full-Stack Developer at BNP Paribas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/h-ferhat-account/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ferhat-hachemi)
 
----
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Languages**
 - Java
-- SQL
+- Python
 - TypeScript
 
-**Front-End:**
+**Front-End**
 - HTML / CSS
 - Angular
 - Ionic
 
-**Back-End:**
+**Back-End**
 - Spring Boot
 
-**Databases:**
-- MySQL
+**Databases**
 - PostgreSQL
+- Oracle / SODA
 
-**DevOps:**
+**DevOps**
 - Jenkins
+- SonarQube
 
-**Others:**
-- Git
-- RESTful APIs
-- Tomcat, Apache Tomcat
+**Tools:**
+- JIRA
+- mRemoteNG
 
+**Servers:**
+- Tomcat
+- Apache Tomcat
+** Others**
+
+
+
+<!--
+**ferhat-hachemi/ferhat-hachemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
