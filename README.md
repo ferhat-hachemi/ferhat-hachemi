@@ -22,6 +22,7 @@ I am a Full-Stack Developer with a deep passion for exploring and leveraging cut
 - Java
 - Python
 - TypeScript
+- SQL
 
 **Back-End:**
 - Spring Boot
