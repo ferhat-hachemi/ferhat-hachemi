@@ -23,6 +23,7 @@ I am a Full-Stack Developer with a deep passion for exploring and leveraging cut
 - Python
 - TypeScript
 - SQL
+- Script Shell 
 
 **Back-End:**
 - Spring Boot
@@ -49,6 +50,10 @@ I am a Full-Stack Developer with a deep passion for exploring and leveraging cut
 
 **Messaging**
 - Kafka
+
+**OS**
+- Linux
+- Windows
 
 **Others**
 - Git
