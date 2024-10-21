@@ -23,7 +23,7 @@ I am a Full-Stack Developer with a deep passion for exploring and leveraging cut
 - Python
 - TypeScript
 - SQL
-- Script Shell 
+- Shell Script
 
 **Back-End:**
 - Spring Boot
