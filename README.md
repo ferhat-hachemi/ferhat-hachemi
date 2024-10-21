@@ -41,7 +41,7 @@ I am a Full-Stack Developer with a deep passion for exploring and leveraging cut
 - Oracle SQL / SODA
 
 **Servers**
-- Tomcat
+- Apache
 - Apache Tomcat
 
 **DevOps & Analysis**
