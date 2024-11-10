@@ -20,47 +20,7 @@ I am a Full-Stack Developer with a deep passion for exploring and leveraging cut
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Java
-- Python
-- TypeScript
-- SQL
-- Shell Script
-
-**Back-End:**
-- Spring Boot
-- Spring Security
-  
-**Front-End**
-- HTML / CSS
-- Angular
-- Ionic
-- Bootstrap
-- PrimeNG
-
-**Databases:**
-- PostgreSQL
-- Oracle SQL / SODA
-
-**Servers**
-- Apache
-- Apache Tomcat
-
-**DevOps & Analysis**
-- Jenkins
-- SonarQube
-
-**Messaging**
-- Kafka
-
-**OS**
-- Linux
-- Windows
-
-**Others**
-- Git
-- RESTful APIs
-- JIRA
+![Java](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_logo_icon_2019.svg/1024px-Java_logo_icon_2019.svg.png)
 
 
 
