@@ -14,9 +14,9 @@ I am a Full-Stack Developer with a deep passion for exploring and leveraging cut
 ## 📊 GitHub Stats
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ferhat-hachemi&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhat-hachemi&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferhat-hachemi&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhat-hachemi&layout=compact&theme=radical) 
 
+![ferhat-hachemi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferhat-hachemi&theme=onedark&hide_border=true)
 
 ## 🛠️ Tech Stack
 
