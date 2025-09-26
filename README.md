@@ -12,9 +12,5 @@ I am a full-stack developer with a deep passion for exploring and leveraging cut
                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="50"/>        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ionic/ionic-original.svg" alt="Ionic" width="50"/>         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" alt="Git" width="50"/> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/>         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"/>        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50"/>        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/maven/maven-original-wordmark.svg" alt="Maven" width="50"/>        <img src="https://github.com/user-attachments/assets/686f532c-4fde-4430-8527-984c43dcfaed" alt="Docker" width="50"/>         
 
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhat-hachemi&layout=compact&theme=radical)
-
 ![ferhat-hachemi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferhat-hachemi&theme=onedark&hide_border=true)
 
